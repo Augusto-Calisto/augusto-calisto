@@ -5,9 +5,9 @@
 
 <div>
   <ul>
-    <li> :computer: Desenvolvedor Back-End </li>
-    <li> :books: Estudante de Ciência da Computação </li>
-    <li> :house: Moro em Mauá/SP </li>
+    <li> :computer: Backend Developer </li>
+    <li> :books: Computer Science Student </li>
+    <li> :house: I'm from Brazil, Mauá/SP </li>
     <li> :email: augustoaquino007@gmail.com </li>
   <ul>
 </div>
