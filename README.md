@@ -1,6 +1,10 @@
-### Hi there 👋
+# Hi, I'm Augusto!
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Augusto-Calisto)](https://github.com/Augusto-Calisto)
 
 <!--
+### Hi there 👋
+
 **Augusto-Calisto/Augusto-Calisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
