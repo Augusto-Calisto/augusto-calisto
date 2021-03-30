@@ -31,6 +31,7 @@
 <div>
   <span>
     <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Selenium-gray?style=flat-square&logo=Selenium&logoColor=white" />
   </span>
 </div> <br/>
 
