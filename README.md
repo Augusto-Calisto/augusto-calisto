@@ -6,7 +6,7 @@
 <div>
   <ul style="list-style: none;">
     <li> :computer: Desenvolvedor Java </li>
-    <li> Estudante de Ciência da Computação </li>
+    <li> :books: Estudante de Ciência da Computação </li>
   <ul>
 </div>
 
