@@ -31,7 +31,7 @@
   </span>
 </div> <br/>
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Calisto&theme=blue-green)](https://github.com/Augusto-Calisto/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Calisto&theme=orange-blue)](https://github.com/Augusto-Calisto/github-readme-stats)
 
 <!--
 ### Hi there 👋
