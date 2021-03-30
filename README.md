@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/-Mysql-blue?style=flat-square&logo=Mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/-Git-red?style=flat-square&logo=Git&logoColor=white" />
     <img src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Thymeleaf-green?style=flat-square&logo=Thymeleaf&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Thymeleaf-DarkGreen?style=flat-square&logo=Thymeleaf&logoColor=white" />
   </span>
 </div>
 
