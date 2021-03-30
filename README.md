@@ -21,9 +21,9 @@
     <img src="https://camo.githubusercontent.com/3409c6681061e0326554a5a03b7a45092b30731a7b60bfbc2cea4b72217756a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" />
     <img src="https://camo.githubusercontent.com/561f3d4fd727fcca82984c91a65eca069ff34a435072158f6947c4ca52370eae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465" />
   </span>
-</div>
+</div> <br/>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Learning
 
