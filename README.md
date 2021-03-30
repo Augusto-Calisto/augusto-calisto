@@ -4,9 +4,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-calisto-27b899195/)](https://www.linkedin.com/in/augusto-calisto-27b899195/)
 
 <div>
-  <ul style="list-style-type: none;">
+  <ul>
     <li> :computer: Desenvolvedor Java </li>
     <li> :books: Estudante de Ciência da Computação </li>
+     <li> :email: augustoaquino007@gmail.com </li>
   <ul>
 </div>
 
