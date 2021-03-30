@@ -16,11 +16,11 @@
 
 <div>
   <span> 
-    <img src="https://camo.githubusercontent.com/67e616e989b87083a322d4cf3ef11e31de24d769b853922bf4635879809995da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d6f72616e67653f7374796c653d666c61742d737175617265266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465" />
-    <img      src="https://camo.githubusercontent.com/4028fc3c77921c7377fcf0f2033493a9a42aeb65187eb4888c5249040dfb5dd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537072696e672d627269676874677265656e3f7374796c653d666c61742d737175617265266c6f676f3d537072696e67266c6f676f436f6c6f723d7768697465" />
-    <img src="https://camo.githubusercontent.com/3409c6681061e0326554a5a03b7a45092b30731a7b60bfbc2cea4b72217756a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" />
-    <img src="https://camo.githubusercontent.com/561f3d4fd727fcca82984c91a65eca069ff34a435072158f6947c4ca52370eae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465" />
-    <img src="https://camo.githubusercontent.com/9eef118f0fe81dc8531d26b1e93a4d6bafa04cfe97edda0b235e29862d016c83/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d79656c6c6f773f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465" />
+    <img src="https://img.shields.io/badge/-Java-orange?style=flat-square&logo=Java&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SpringBoot-green?style=flat-square&logo=Spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Mysql-blue?style=flat-square&logo=Mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Git-red?style=flat-square&logo=Git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/-Thymeleaf-green?style=flat-square&logo=Thymeleaf&logoColor=white" />
   </span>
 </div>
@@ -29,7 +29,7 @@
 
 <div>
   <span>
-    <img src="https://camo.githubusercontent.com/4d015bf250194995d899a5d2b90babf1afc4458c1589b93e58fdfa4119749a49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" />
+    <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker&logoColor=white" />
   </span>
 </div> <br/>
 
