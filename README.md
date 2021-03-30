@@ -3,10 +3,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Augusto-Calisto)](https://github.com/Augusto-Calisto)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-calisto-27b899195/)](https://www.linkedin.com/in/augusto-calisto-27b899195/)
 
-### Skills
-
-https://camo.githubusercontent.com/67e616e989b87083a322d4cf3ef11e31de24d769b853922bf4635879809995da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d6f72616e67653f7374796c653d666c61742d737175617265266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465
-
 <!--
 ### Hi there 👋
 
