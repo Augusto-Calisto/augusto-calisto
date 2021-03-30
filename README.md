@@ -7,7 +7,7 @@
   <ul>
     <li> :computer: Desenvolvedor Back-End </li>
     <li> :books: Estudante de Ciência da Computação </li>
-    <li> :house: Mauá </li>
+    <li> :house: Moro em Mauá/SP </li>
     <li> :email: augustoaquino007@gmail.com </li>
   <ul>
 </div>
