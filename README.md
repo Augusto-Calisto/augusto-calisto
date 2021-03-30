@@ -6,8 +6,8 @@
 ### Skills
 
 <div class="row">
-  <div class="col-3">
-    <img src="https://img.shields.io/badge/-SpringBoot?style=flat-square&logo=Spring&logoColor=white" />
+  <div class="col-2">
+    <img src="https://img.shields.io/badge/-SpringBoot?style=flat-square&logo=Spring&logoColor=white" /> Spring Boot
   </div>
 </div>
 
