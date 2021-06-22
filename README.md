@@ -30,7 +30,7 @@
 
 <div>
   <span>
-    <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
     <img src="https://img.shields.io/badge/-Selenium-gray?style=flat-square&logo=Selenium&logoColor=white" />
   </span>
 </div> <br/>
