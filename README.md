@@ -5,7 +5,7 @@
 
 <div>
   <ul>
-    <li> :computer: Backend Developer </li>
+    <li> :computer: Fullstack Developer </li>
     <li> :books: Computer Science Student </li>
     <li> :house: I'm from Brazil, Mauá/SP </li>
     <li> :email: augustoaquino007@gmail.com </li>
