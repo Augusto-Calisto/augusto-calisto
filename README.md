@@ -49,9 +49,9 @@
 ### :phone: Contatos
 <div>
   <span>
-    :email: augustoaquino007@gmail.com <br/>
-    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-calisto-27b899195/)](https://www.linkedin.com/in/augusto-calisto-27b899195/)
+    :email: augustoaquino007@gmail.com
   </span>
+  [![Linkedin Badge] (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-calisto-27b899195/)](https://www.linkedin.com/in/augusto-calisto-27b899195/)
 </div> <br/>
     
 <!--
