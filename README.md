@@ -40,6 +40,7 @@
     <span>
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
         <img src="https://img.shields.io/badge/-Selenium-gray?style=flat-square&logo=Selenium&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
     </span>
 </div> <br/>
 
