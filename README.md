@@ -12,7 +12,7 @@
   <ul>
 </div>
 
-:hammer_and_wrench: ### Habilidades
+### :hammer_and_wrench: Habilidades
 
 <div>
   <span> 
@@ -26,14 +26,14 @@
   </span>
 </div>
     
-:package: ### Banco de dados
+### :package: Banco de dados
 <div>
   <span>
     <img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=MySQL&logoColor=white" />
   </span>
 </div>
 
-:writing_hand: ### Estudando
+### :writing_hand:  Estudando
 
 <div>
   <span>
