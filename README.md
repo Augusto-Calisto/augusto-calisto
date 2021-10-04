@@ -6,12 +6,12 @@
 <div>
     <ul>
         <li> :computer: Fullstack Developer </li>
-        <li> :books: Computer Science Student </li>
-        <li> :house: I'm from Brazil, Mauá/SP </li>
+        <li> :books: Estudante de Ciência da Computação </li>
+        <li> :house: Eu sou de Mauá/SP - Brasil </li>
     <ul>
 </div>
 
-### :hammer_and_wrench: Habilidades
+### :hammer_and_wrench: Habilidades:
 
 <div>
     <span> 
@@ -26,14 +26,14 @@
     </span>
 </div>
     
-### :package: Banco de dados
+### :package: Banco de dados:
 <div>
     <span>
         <img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=MySQL&logoColor=white" />
     </span>
 </div>
 
-### :writing_hand:  Estudando
+### :writing_hand: Estudando:
 
 <div>
     <span>
@@ -44,12 +44,12 @@
     </span>
 </div> <br/>
 
-### :part_alternation_mark: Linguagem utilizadas:
+### :part_alternation_mark: Linguagens utilizadas:
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Calisto&theme=blue-green)](https://github.com/Augusto-Calisto/github-readme-stats)
 
 <hr/>
     
-### :phone: Contatos
+### :phone: Contatos:
 <div>
     <span>
         :email: augustoaquino007@gmail.com
