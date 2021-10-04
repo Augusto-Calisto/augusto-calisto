@@ -12,21 +12,28 @@
   <ul>
 </div>
 
-### Skills
+:hammer_and_wrench: ### Habilidades
 
 <div>
   <span> 
     <img src="https://img.shields.io/badge/-Java-orange?style=flat-square&logo=Java&logoColor=white" />
     <img src="https://img.shields.io/badge/-SpringBoot-green?style=flat-square&logo=Spring&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=MySQL&logoColor=white" />
+    
     <img src="https://img.shields.io/badge/-Git-red?style=flat-square&logo=Git&logoColor=white" />
     <img src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/-Thymeleaf-darkgreen?style=flat-square&logo=Thymeleaf&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=Bootstrap&logoColor=white" />
   </span>
 </div>
+    
+:package: ### Banco de dados
+<div>
+  <span>
+    <img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=MySQL&logoColor=white" />
+  </span>
+</div>
 
-### Learning
+:writing_hand: ### Estudando
 
 <div>
   <span>
