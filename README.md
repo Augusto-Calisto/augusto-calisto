@@ -18,7 +18,6 @@
   <span> 
     <img src="https://img.shields.io/badge/-Java-orange?style=flat-square&logo=Java&logoColor=white" />
     <img src="https://img.shields.io/badge/-SpringBoot-green?style=flat-square&logo=Spring&logoColor=white" />
-    
     <img src="https://img.shields.io/badge/-Git-red?style=flat-square&logo=Git&logoColor=white" />
     <img src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/-Thymeleaf-darkgreen?style=flat-square&logo=Thymeleaf&logoColor=white" />
