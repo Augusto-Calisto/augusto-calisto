@@ -19,6 +19,7 @@
         <img src="https://img.shields.io/badge/-Java-orange?style=flat-square&logo=Java&logoColor=white" />
         <img src="https://img.shields.io/badge/-SpringBoot-green?style=flat-square&logo=Spring&logoColor=white" />
         <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/-Git-red?style=flat-square&logo=Git&logoColor=white" />
         <img src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white" />
         <img src="https://img.shields.io/badge/-Thymeleaf-darkgreen?style=flat-square&logo=Thymeleaf&logoColor=white" />
@@ -33,7 +34,7 @@
     </span>
 </div>
 
-### :writing_hand: Estudando
+### :writing_hand:  Estudando
 
 <div>
     <span>
@@ -42,7 +43,7 @@
     </span>
 </div> <br/>
 
-### :part_alternation_mark: Linguagens usadas
+Linguagem utilizadas:
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Calisto&theme=blue-green)](https://github.com/Augusto-Calisto/github-readme-stats)
 
 <hr/>
