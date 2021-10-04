@@ -44,6 +44,13 @@
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Calisto&theme=blue-green)](https://github.com/Augusto-Calisto/github-readme-stats)
 
+### :phone: Contatos
+<div>
+  <span>
+    :email: augustoaquino007@gmail.com
+  </span>
+</div> <br/>
+    
 <!--
 ### Hi there 👋
 
