@@ -46,7 +46,8 @@
 
 ### :part_alternation_mark: Linguagens utilizadas:
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Calisto&theme=blue-green)](https://github.com/Augusto-Calisto/github-readme-stats)
-        
+
+### :chart: Estatísticas:       
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=augusto-calisto)](https://github.com/Augusto-Calisto/github-readme-stats)
 
 <hr/>
