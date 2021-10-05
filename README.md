@@ -52,7 +52,7 @@
 ### :phone: Contatos:
 <div>
     <span>
-        :email: augustoaquino007@gmail.com
+        <img src="https://img.shields.io/badge/augustoaquino007@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
     </span>
 </div>
     
