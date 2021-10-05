@@ -1,7 +1,13 @@
 # Oi, eu sou Augusto Calisto! :smiley:
 
+<!--
 ### :chart: Estatísticas:       
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=augusto-calisto)](https://github.com/Augusto-Calisto/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=augusto-calisto)](https://github.com/Augusto-Calisto/github-readme-stats) -->
+
+<p align="center">  
+    <h3> :chart: Estatísticas: </h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=augusto-calisto" />
+</p>
     
 <!-- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Augusto-Calisto)](https://github.com/Augusto-Calisto) -->
 
