@@ -47,7 +47,7 @@
 ### :part_alternation_mark: Linguagens utilizadas:
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Calisto&theme=blue-green)](https://github.com/Augusto-Calisto/github-readme-stats)
         
-<img src="https://camo.githubusercontent.com/33e449513ad375570e3b5652b19c9766a73d2646714444fe93aec0ae431e8a87/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e746f6e696e6f63616c6973746f2673686f775f69636f6e733d7472756526636f756e745f707269766174653d747275652673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565" alt="Github Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=augusto-calisto&amp;show_icons=true&amp;count_private=true&amp;show_icons=true&amp;include_all_commits=true" style="max-width: 100%;" />
+
 
 <hr/>
     
