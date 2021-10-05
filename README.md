@@ -52,6 +52,7 @@
 ### :phone: Contatos:
 <div>
     <span>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=link=https://www.linkedin.com/in/augusto-calisto-27b899195/)" />
         <img src="https://img.shields.io/badge/augustoaquino007@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
     </span>
 </div>
