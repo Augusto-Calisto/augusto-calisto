@@ -1,5 +1,8 @@
 # Oi, eu sou Augusto Calisto! :smiley:
 
+### :chart: Estatísticas:       
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=augusto-calisto)](https://github.com/Augusto-Calisto/github-readme-stats)
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Augusto-Calisto)](https://github.com/Augusto-Calisto)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-calisto-27b899195/)](https://www.linkedin.com/in/augusto-calisto-27b899195/)
 
@@ -56,9 +59,6 @@
 
 ### :part_alternation_mark: Linguagens utilizadas:
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Calisto&theme=blue-green)](https://github.com/Augusto-Calisto/github-readme-stats)
-
-### :chart: Estatísticas:       
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=augusto-calisto)](https://github.com/Augusto-Calisto/github-readme-stats)
 
 <hr/>
     
