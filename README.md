@@ -10,7 +10,6 @@
     <ul>
         <li> :computer: Desenvolvedor Fullstack </li>
         <li> :books: Graduando em Ciência da Computação </li>
-        <li> :house: Eu sou de Mauá/SP - Brasil </li>
     <ul>
 </div>
 
@@ -60,10 +59,10 @@
 ### :part_alternation_mark: Linguagens utilizadas:
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Calisto&theme=blue-green)](https://github.com/Augusto-Calisto/github-readme-stats)
         
-<p align="center">  
+<span>  
     <h3> :chart: Estatísticas: </h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=augusto-calisto" />
-</p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=augusto-calisto" />
+</span>
 
 <hr/>
     
