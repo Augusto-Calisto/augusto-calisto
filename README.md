@@ -1,4 +1,4 @@
-# Oi, eu sou Augusto Calisto! :smiley:
+<h1 align="center"> Oi, eu sou Augusto Calisto! :smiley: </h1>
 
 <!--
 ### :chart: Estatísticas:       
