@@ -55,7 +55,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Calisto&theme=blue-green" />
 
     <h3> :chart: Estatísticas: </h3>       
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=augusto-calisto&show_icons=true&theme=merko" />
+    <img src="https://github-readme-stats.vercel.app/api?username=augusto-calisto&show_icons=true&theme=merko" />
 </div>
         
 <hr/>
