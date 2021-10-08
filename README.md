@@ -57,7 +57,7 @@
 </div> <br/>
 
 ### :part_alternation_mark: Linguagens utilizadas:
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Calisto&theme=blue-green)](https://github.com/Augusto-Calisto/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Calisto&theme=blue-green&show_icons=true)](https://github.com/Augusto-Calisto/github-readme-stats)
 
 <h3> :chart: Estatísticas: </h3>
         
