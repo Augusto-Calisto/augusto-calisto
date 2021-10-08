@@ -68,17 +68,14 @@
 ### :phone: Contatos:
 <div>
     <span>
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-        <img src="https://img.shields.io/badge/augustoaquino007@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+        <a href="#">
+            <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+        </a>
+        
+        <a href="#">
+            <img src="https://img.shields.io/badge/augustoaquino007@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+        </a>
     </span>
 </div>
         
- <a href="https://github.com/augusto-calisto/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Augusto-Calisto&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/augusto-calisto/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Augusto-Calisto&repo=convoychat" />
-</a>
-
-
 <!-- **Augusto-Calisto/Augusto-Calisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
