@@ -73,11 +73,11 @@
     </span>
 </div>
         
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=augusto-calisto&repo=github-readme-stats" />
+ <a href="https://github.com/augusto-calisto/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Augusto-Calisto&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=augusto-calisto&repo=convoychat" />
+<a href="https://github.com/augusto-calisto/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Augusto-Calisto&repo=convoychat" />
 </a>
 
 
