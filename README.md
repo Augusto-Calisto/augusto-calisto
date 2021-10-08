@@ -66,13 +66,15 @@
 <hr/>
     
 ### :phone: Contatos:
-        <a href="#">
-            <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-        </a>
-        
-        <a href="#">
-            <img src="https://img.shields.io/badge/augustoaquino007@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-        </a>
+        <div>
+            <a href="#">
+                <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+            </a>
+
+            <a href="#">
+                <img src="https://img.shields.io/badge/augustoaquino007@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+            </a>
+        </div>
     
         
 <!-- **Augusto-Calisto/Augusto-Calisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
