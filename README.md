@@ -51,12 +51,13 @@
 </div> <br/>
 
 <div>        
-<h3> :part_alternation_mark: Linguagens utilizadas: </h3>       
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Calisto&theme=blue-green" />
+    <h3> :part_alternation_mark: Linguagens utilizadas: </h3>       
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Calisto&theme=blue-green" />
 
-<h3> :chart: Estatísticas: </h3>       
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=augusto-calisto&show_icons=true&theme=merko" />
-</div>      
+    <h3> :chart: Estatísticas: </h3>       
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=augusto-calisto&show_icons=true&theme=merko" />
+</div>
+        
 <hr/>
     
 ### :phone: Contatos:      
