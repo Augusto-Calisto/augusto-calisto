@@ -49,14 +49,12 @@
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
     </span>
 </div> <br/>
+       
+<h3> :part_alternation_mark: Linguagens utilizadas: </h3>       
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Calisto&theme=blue-green" />
 
-<div>        
-    <h3> :part_alternation_mark: Linguagens utilizadas: </h3>       
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Calisto&theme=blue-green" />
-
-    <h3> :chart: Estatísticas: </h3>       
+<h3> :chart: Estatísticas: </h3>       
     <img src="https://github-readme-stats.vercel.app/api?username=augusto-calisto&show_icons=true&theme=merko" />
-</div>
         
 <hr/>
     
