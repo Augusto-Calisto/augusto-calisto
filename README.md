@@ -59,16 +59,10 @@
 ### :part_alternation_mark: Linguagens utilizadas:
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Calisto&theme=blue-green)](https://github.com/Augusto-Calisto/github-readme-stats)
 
-<div>
-    <span>  
-        <h3> :chart: Estatísticas: </h3>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=augusto-calisto" />
-
-        <h3> :part_alternation_mark: Linguagens utilizadas: </h3>
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Augusto-Calisto&theme=blue-green" />
-    </span>
-</div>
-         
+<h3> :chart: Estatísticas: </h3>
+        
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=augusto-calisto" />
+      
 <hr/>
     
 ### :phone: Contatos:
