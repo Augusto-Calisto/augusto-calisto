@@ -50,13 +50,10 @@
     </span>
 </div> <br/>
 
-### :part_alternation_mark: Linguagens utilizadas:
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Calisto&theme=blue-green)](https://github.com/Augusto-Calisto/github-readme-stats)
-        
+<h1> :part_alternation_mark: Linguagens utilizadas: </h1>       
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Calisto&theme=blue-green" />](https://github.com/Augusto-Calisto/github-readme-stats)
 
-<h3> :chart: Estatísticas: </h3>
-        
+<h3> :chart: Estatísticas: </h3>       
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=augusto-calisto&show_icons=true&theme=merko" />
       
 <hr/>
@@ -64,5 +61,8 @@
 ### :phone: Contatos:      
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />](https://www.google.com/)
 [<img src="https://img.shields.io/badge/augustoaquino007@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />](https://www.google.com/)
-          
+ 
+<!-- ### :part_alternation_mark: Linguagens utilizadas:
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Calisto&theme=blue-green)](https://github.com/Augusto-Calisto/github-readme-stats) -->
+        
 <!-- **Augusto-Calisto/Augusto-Calisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
