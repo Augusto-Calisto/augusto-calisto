@@ -62,8 +62,12 @@
 <span>  
     <h3> :chart: Estatísticas: </h3>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=augusto-calisto" />
+    
+    <h3> :part_alternation_mark: Linguagens utilizadas: </h3>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Calisto&theme=blue-green" />
 </span>
-
+        
+<br/> 
 <hr/>
     
 ### :phone: Contatos:
