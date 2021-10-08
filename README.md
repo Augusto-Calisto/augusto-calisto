@@ -50,12 +50,13 @@
     </span>
 </div> <br/>
 
-<h1> :part_alternation_mark: Linguagens utilizadas: </h1>       
+<div>        
+<h3> :part_alternation_mark: Linguagens utilizadas: </h3>       
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Calisto&theme=blue-green" />](https://github.com/Augusto-Calisto/github-readme-stats)
 
 <h3> :chart: Estatísticas: </h3>       
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=augusto-calisto&show_icons=true&theme=merko" />
-      
+</div>      
 <hr/>
     
 ### :phone: Contatos:      
