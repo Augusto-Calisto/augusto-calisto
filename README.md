@@ -61,7 +61,7 @@
 
 <h3> :chart: Estatísticas: </h3>
         
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=augusto-calisto&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=augusto-calisto&show_icons=true&theme=merko" />
       
 <hr/>
     
