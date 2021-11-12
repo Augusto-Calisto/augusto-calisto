@@ -2,7 +2,7 @@
 
 <div>
     <ul>
-        <li> :computer: Desenvolvedor Fullstack </li>
+        <li> :computer: Desenvolvedor Java Júnior </li>
         <li> :books: Graduando em Ciência da Computação </li>
     <ul>
 </div>
