@@ -43,23 +43,21 @@
 
 <div>
     <span>
-        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
-        <img src="https://img.shields.io/badge/Junit-25A162?style=flat-square&logo=junit5&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Junit-25A162?style=flat-square&logo=jUnit5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
     </span>
 </div> <br/>
        
 <h3> :part_alternation_mark: Linguagens utilizadas: </h3>            
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Calisto&theme=blue-green" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Calisto&theme=blue-green"/>
 
 <h3> :chart: Estatísticas: </h3>            
-<img src="https://github-readme-stats.vercel.app/api?username=augusto-calisto&show_icons=true&theme=merko" />
+<img src="https://github-readme-stats.vercel.app/api?username=augusto-calisto&show_icons=true&theme=merko"/>
         
 <hr/>
     
 ### :phone: Contatos: 
-[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>](https://www.google.com/)
+[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>](https://br.linkedin.com/in/augusto-calisto-27b899195)
 [<img src="https://img.shields.io/badge/augustoaquino007@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>](###)
         
 <!-- ### :part_alternation_mark: Linguagens utilizadas:
