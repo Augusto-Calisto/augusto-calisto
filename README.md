@@ -1,7 +1,7 @@
 <h2 align="center"> Bem-vindo ao meu GitHub 😃 </h2>
 
 <p> 
-Olá, meu nome é Augusto Calisto de Aquino tenho 22 anos, sou <u> Bacharel em Ciência da Computação </u> e atuo como <u>Desenvolvedor Back-End</u> há cerca de 3 anos. Dentro desse período, trabalhei com:
+Olá, meu nome é Augusto Calisto de Aquino tenho 22 anos, tenho <u> Bacharel em Ciência da Computação </u> e atuo como <u>Desenvolvedor Back-End</u> há cerca de 3 anos. Dentro desse período, trabalhei com:
 
 - Spring Boot
 - Spring Security (Sessão e/ou JWT)
