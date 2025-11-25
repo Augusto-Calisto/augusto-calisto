@@ -1,7 +1,7 @@
 <h2 align="center"> Bem-vindo ao meu GitHub 😃 </h2>
 
 <p> 
-Olá, meu nome é Augusto Calisto de Aquino tenho 22 anos, sou formado em <u> Ciência da Computação </u> e atuo como <u> Desenvolvedor Back-End </u> há cerca de 3 anos. Neste período, trabalhei com:
+Olá, meu nome é Augusto Calisto de Aquino tenho 25 anos, sou formado em <u> Ciência da Computação </u> e atuo como <u> Desenvolvedor FullStack </u> há cerca de 4 anos. Neste período, trabalhei com:
 
 - Spring Boot
 - Spring Security (Sessão e/ou JWT)
@@ -10,6 +10,7 @@ Olá, meu nome é Augusto Calisto de Aquino tenho 22 anos, sou formado em <u> Ci
 - HTML, CSS e Javascript (Bootstrap e JQuery)
 - JasperReports (Geração de Relatórios)
 - Apache Cordova (Criação de Aplicativos Mobile)
+- React (Aplicações Web)
 </p>
 
 ### 🔨 Habilidades:
